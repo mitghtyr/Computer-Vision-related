@@ -10,3 +10,9 @@
 
 * **ResNet*MedMNIST-Retina**
 
+## 2020.19.29 Final project
+
+* **Vine coplua Autoencoder on MedMNIST dataset**
+
+* **Plz refer to the PPT**
+
